@@ -6,7 +6,7 @@
 * Install xamp
 * Install VSCode
 * Download composer installer and instll it. Check whether installed by running command (composer)
-* Open cmd and run command (composer global require "laravel/installer=~1.1") to install laravel. Check whether installed by command (laravel)
+* Open cmd and run command (composer global require laravel/installer) to install laravel. Check whether installed by command (laravel)
 * Open cmd from location (xamp/htdoc) and create first project by command (laravel new projectName)
 
 ## Create first project:
